@@ -8,7 +8,7 @@
 
 ### About Pull Requests
 
-Send your Pull Requests to devel-x branch first. Then hwpplayers will analyze the code/information that you have sent.
+Send your Pull Requests to devel-x branch first. Then "Masscollabs core team" will analyze the code/information that you have sent.
 
 ### About Merging Source Code
 
@@ -34,12 +34,12 @@ You always have the right not to declare yourself as a public member; you can al
 
 #### Code distribution rules
 
-masscollabs never puts source code/information into master-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches (devel-x , master-x and stable-x). masscollabs plays, fixes, tries, makes.
+Masscollabs never puts source code/information into master-x branches without security testing and correcting the information. Test twice your code and information and then send your pull request to all branches (devel-x , master-x and stable-x). Masscollabs plays, fixes, tries, makes.
 
 This document is licensed under the terms of the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.en.html)
 
-If you have any questions please create an issue on this repository or join the [masscollabs Telegram group](https://t.me/masscollabs) to ask your question.
+If you have any questions please create an issue on this repository or join the [Masscollabs Telegram group](https://t.me/masscollabs) to ask your question.
 
-on-coding.md Coding Rules, Account Privacy and Contribution information for masscollabs; this document will be updated by getting feedback from members and other contributors.
+on-coding.md Coding Rules, Account Privacy and Contribution information for Masscollabs; this document will be updated by getting feedback from members and other contributors.
 
 
