@@ -1,0 +1,1 @@
+## This repository includes Code of Conduct and Coding Rules of [Masscollabs Services](https://masscollabs.github.io/)
