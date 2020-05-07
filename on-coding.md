@@ -16,6 +16,16 @@ oldstable is old version but supported.
 legacy is old version and not supported.
 ```
 
+### About Tags
+
+Tag string should be like this:
+
+1. v1.2.0 (classic versioning)
+2. 2020.05 (year.month style)
+3. 20200512 (yearmountdate style)
+4. 123 (single number versioning)
+
+
 ### About Pull Requests
 
 Send your Pull Requests to devel-x branch first. Then "Masscollabs core team" will analyze the code/information that you have sent.
