@@ -8,11 +8,13 @@
 4. oldstable-x(version number here)
 5. legacy-x(version number here)
 
+```
 devel is development branch. It is not stable yet.
 master is main branch for users/communities.
 stable is current stable branch.
 oldstable is old version but supported.
 legacy is old version and not supported.
+```
 
 ### About Pull Requests
 
