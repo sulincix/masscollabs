@@ -22,7 +22,7 @@ Tag string should be like this:
 
 1. v1.2.0 (classic versioning)
 2. 2020.05 (year.month style)
-3. 20200512 (yearmountdate style)
+3. 20200512 (yearmonthdate style)
 4. 123 (single number versioning)
 
 
